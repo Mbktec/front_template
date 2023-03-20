@@ -1,0 +1,248 @@
+<div class="slide-container swiper">
+        <div class="slide-content">
+            <div class="card-wrapper swiper-wrapper">
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Ousseini.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Ousseini K.Zakari</h2>
+                        <h6>
+                            <small>
+                              Etudiant en droit <br />
+                              </small>
+                              </h6>
+                        <p class="description">
+                            Faites subir le monde, mais jamais ne subissez ! Mon premier jour à Swiss UMEF University
+                            of Niger, j'ai entendu cette phrase de notre professeur d'économie politique Alain Hoodashtian.Dès le premier jour
+                            la rigueur était au rendez-vous, mais cette rigueur du corps professoral et de l'administration fait ressortir
+                            l'amour et la passion pour ce qu'ils font..
+                        </p>
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Ibrahim Seyni.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Ibrahim Seyni Omar</h2>
+                        <h6><small>
+                                Etudient en relation internationales et diplomatie
+                        </small></h6>
+
+                        <p class="description">
+                            Swiss UMEF University of Niger ! Nelson Mandela disait que ''
+                            L'éducation est l'arme la plus puissante pour changer le monde'',
+                            et je crois, de là ou il est, s'il savait l'existance de Swiss UMEF
+                            il aurait de l'espoir. En effet,  le monde actuel fait face à de nouveaux
+                            défis et Swiss UMEF forme ses étudiants à relever ses défis. Avec un cadre
+                            estudiantin très moderne et convivial, à UMEF nous sommes encadrés par des
+                            enseignants renommés et une administration rigoureuse et accueillante, j'ai
+                            appris à Swiss UMEF à vivre
+                            en famille mais aussi et surtout à penser différemment !.
+                            </p>
+
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Adama.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Mahamadou H. Adama</h2>
+                        <h6><small>Etudiante en Master 2 en Droit des affaires <br /></small> </h6>
+                        <p class="description">
+                            C’est une université qui offre toujours la chance aux étudiants de faire leurs preuves et elle assiste
+                            les plus motivés d’entre eux en leur attribuant des bourses d’études. Moi-même faisant partie des plus
+                            chanceux, j’ai bénéficié d’une demi-bourse d’études pour effectuer ma licence et d’une bourse pleine de master pour avoir
+                            été major de ma promotion à l’Ecole de droit. J’exprime ainsi toute ma gratitude à l’égard de cette université. Swiss Umef
+                            est désormais une université de référence au Niger, ainsi qu’une seconde famille pour moi, car c’est ce type d’ambiance qui
+                            règne à Umef. Nous formons une
+                            communauté et c’est pour la vie..
+                            </p>
+
+                 <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Nasser.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Nasser Yaou Aboubacar</h2>
+                        <h6>
+                            <small>
+                                Etudiant en diplomatie<br />
+                              </small>
+                         </h6>
+                        <p class="description">
+                            Plutôt que de quitter le Niger pour aller dans une université européenne,
+                            il vaut mieux rester au pays et bénéficier des mêmes conditions qu'on aurait en Europe. Swiss Umef
+                            fait la promotion de l'excellence. Je suis boursier à 100%. À Swiss UMEF, on cultive l'excellence,
+                            on donne le mérite au meilleur.
+                            Chacun se retrouve dans un cadre agréable et optimal..
+                            </p>
+
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Ahmed.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Ikiya M. Ahmed</h2>
+                        <h6>
+                            <small>
+                            Etudiant en relations internationnales et diplomatie
+                            </small>
+                            </h6>
+                        <p class="description">
+                            À Swiss Umef University of Niger, j'ai découvert le monde dans sa diversité grâce à la présence des professeurs
+                            venus de tous les coins du monde. Ici j'ai compris les dynamiques qui fondent les Relations internationales et le Droit international
+                            grâce aux enseignants chevronnés dans leurs domaines..
+                        </p>
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Hannatou.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Hannatou Amadi</h2>
+                        <h6>
+                            <small>
+                                Diplomée en Master Leadership Management<br />
+                            </small>
+                            </h6>
+                        <p class="description">
+                            J’invite les jeunes à vivre l’expérience Umef !
+                        </p>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Nasser.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Nasser Yaou Aboubacar</h2>
+                        <h6>
+                            <small>
+                                Etudiant en diplomatie<br />
+                               </small>
+                            </h6>
+                        <p class="description">
+                            Plutôt que de quitter le Niger pour aller dans une université européenne, il vaut mieux rester au pays et bénéficier des mêmes
+                            conditions qu'on aurait en Europe. Swiss Umef fait la promotion de l'excellence. Je suis boursier à 100%. À Swiss UMEF, on cultive l'excellence, on donne
+                            le mérite au meilleur. Chacun se retrouve dans
+                            un cadre agréable et optimal.
+                        </p> 
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/2048px-Early_Swiss_cross.svg.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Rachid Belko Bodo</h2>
+                        <h6>
+                            <small>
+                                Diplômé en relations internationales et diplomatie<br />
+                            </small>
+                            </h6>
+                        <p class="description">
+                            Il est avéré qu'au Niger c’est seulement à 'luniversité Abdou Moumouni qu'on enseigne les relations internationales.
+                            J'ai donc choisi SWISS UMEF pour pouvoir finir mon cycle. J'ai acquis énormément de connaissances et j'ai élargi mon réseau avec des personnes à l'étranger
+                        </p>
+
+                        <span class="badge text-primary voirPlus">voir plus</span>
+                    </div>
+                </div>
+                <div class="card1 swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+
+                        <div class="card-image">
+                            <img src="~/Images/Graduation.png" alt="" class="card-img">
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <h2 class="name">Dassi Fidèle Henri Joel</h2>
+                         <h6>
+                            <small>
+                                Diplômé de SWISS UMEF
+                               </small>
+                            </h6>
+                        <p class="description">
+                            Oui, nous avons été bien formés pour
+                            le futur, pour toujours. Nous ressortons bien plus que diplômés
+
+                        </p>
+
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="swiper-button-next swiper-navBtn"></div>
+        <div class="swiper-button-prev swiper-navBtn"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+
+
+
+const elem = document.querySelectorAll(".voirPlus");
+
+elem.forEach(el => {
+    el.addEventListener('click', (e) => {
+        el.parentNode.childNodes[5].style.overflow = 'visible';
+        
+    })
+})
